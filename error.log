@@ -1,0 +1,10 @@
+[2023-10-18 23:41:00] Error de conexión: Access denied 
+for user 'roo'@'localhost' (using password: NO)
+[2024-02-15 01:02:45] Error de conexión: Access denied for user 'roo'@'localhost' (using password: NO)
+[2024-02-15 01:02:52] Error de conexión: Access denied for user 'roo'@'localhost' (using password: NO)
+[2024-04-03 00:50:32] Ocurrió una excepción al intenter loguear el usuario: Table 'red_social.usuarios' doesn't exist
+[2024-04-03 00:54:06] Ocurrió una excepción al intenter loguear el usuario: Table 'red_social.usuarios' doesn't exist
+[2024-04-03 00:55:25] Ocurrió una excepción al intentar obtener información de la tabla: Table 'red_social.usuarios' doesn't exist
+[2024-04-03 01:24:56] cduran@correo.com
+[2024-08-25 19:26:53] Error de conexión: Unknown database 'red_social'
+[2024-08-25 22:02:06] Ocurrió una excepción al intentar actualizar la receta: Cannot add or update a child row: a foreign key constraint fails (`api_recetario`.`recetas`, CONSTRAINT `recetas_ibfk_1` FOREIGN KEY (`id_tipo_receta`) REFERENCES `tipo_receta` (`id_tipo_receta`))
